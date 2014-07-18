@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.4.0'
   spec.authors       = ['Frank Macreery']
   spec.email         = ['frank@macreery.com']
-  spec.description   = 'All Aptible CLI tools, optimized for system install'
-  spec.summary       = 'All Aptible CLI tools, optimized for system install'
+  spec.description   = 'Meta-package for Aptible CLI tools'
+  spec.summary       = 'Meta-package for Aptible CLI tools'
   spec.homepage      = 'https://github.com/aptible/aptible-toolbelt'
   spec.license       = 'MIT'
 
