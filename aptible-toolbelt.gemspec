@@ -16,7 +16,6 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files`.split($RS)
   spec.executables   = spec.files.grep(/^bin\//) { |f| File.basename(f) }
-  spec.test_files    = spec.files.grep(/^spec\//)
 
   spec.add_dependency 'activesupport', '4.1.4'
   spec.add_dependency 'aptible-api', '0.5.7'

@@ -19,8 +19,7 @@ See usage notes for the included tools:
 ## Contributing
 
 1. Fork the project.
-1. Commit your changes, with specs.
-1. Ensure that your code passes specs (`rake spec`) and meets Aptible's Ruby style guide (`rake rubocop`).
+1. Commit your changes.
 1. Create a new pull request on GitHub.
 
 ## Copyright and License
