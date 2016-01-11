@@ -6,7 +6,7 @@ require 'English'
 
 Gem::Specification.new do |spec|
   spec.name          = 'aptible-toolbelt'
-  spec.version       = '0.5.12'
+  spec.version       = '0.5.13'
   spec.authors       = ['Frank Macreery']
   spec.email         = ['frank@macreery.com']
   spec.description   = 'Meta-package for Aptible CLI tools'
@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'activesupport', '4.1.4'
   spec.add_dependency 'aptible-api', '0.7.14'
   spec.add_dependency 'aptible-auth', '0.8.6'
-  spec.add_dependency 'aptible-cli', '0.5.12'
+  spec.add_dependency 'aptible-cli', '0.5.13'
   spec.add_dependency 'aptible-resource', '0.3.0'
   spec.add_dependency 'faraday', '0.9.0'
   spec.add_dependency 'fridge', '0.2.2'
