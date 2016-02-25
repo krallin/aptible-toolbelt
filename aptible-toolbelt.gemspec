@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'gem_config', '0.3.1'
   spec.add_dependency 'git', '1.2.7'
   spec.add_dependency 'i18n', '0.6.11'
-  spec.add_dependency 'json', '1.8.1'
+  spec.add_dependency 'json', '1.8.3'
   spec.add_dependency 'jwt', '0.1.13'
   spec.add_dependency 'mime-types', '1.25.1'
   spec.add_dependency 'minitest', '5.4.0'
